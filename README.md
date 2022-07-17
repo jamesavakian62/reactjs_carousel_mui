@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# reactjs_carousel_mui
+
+![Screen Shot 2022-07-17 at 2 36 27 PM](https://user-images.githubusercontent.com/92414210/179425867-cda04e43-b25f-4e62-ae00-b251b81e1705.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
